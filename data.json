@@ -1,0 +1,27 @@
+{
+  "question": [
+    "Q1. What Indian city is the capital of two states?",
+    "Q2. Which city is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+    "Q5. Which animal is known as the 'Ship of the Desert'?",
+    "Q6. How many consonants are there in the English alphabet?",
+    "Q7. Name the National animal of India?",
+    "Q8. Name the national flower of India?",
+    "Q9. Name the National game of India?",
+    "Q10. Name the longest river on the Earth?"
+  ],
+  "answer": [1, 2, 3, 2, 3, 2, 4, 1, 3, 4],
+  "options": [
+    ["Chandigarh", "Kolkata", "Delhi", "Banglore"],
+    ["Jaipur", "Delhi", "Chennai", "Mumbai"],
+    ["Rajasthan", "Punjab", "Goa", "Bihar"],
+    ["Lucknow", "Agra", "Bhopal", "Delhi"],
+    ["Giraffe", "Elephant", "Camel", "Mammoth"],
+    ["20", "21", "25", "23"],
+    ["Cheetah", "Lion", "Leopard", "Tiger"],
+    ["Lotus", "Lily", "Rose", "Jasmine"],
+    ["FOotball", "Badminton", "Hockey", "Cricket"],
+    ["Volga", "Amazon", "Ganga", "Nile"]
+  ]
+}
